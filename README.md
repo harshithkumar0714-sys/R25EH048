@@ -1,1 +1,1 @@
-# R25EH048
+Hello, I’m Harshith Kumar, an engineering student interested in Artificial Intelligence and Data Science. I am currently developing my programming, problem-solving, and software development skills through academic projects and hands-on practice. This repository contains my learning work, projects, and experiments as I continue building my technical skills.
